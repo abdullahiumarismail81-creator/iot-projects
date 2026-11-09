@@ -1,23 +1,25 @@
 # IoT Projects
 
-Internet of Things projects related to:
+A collection of Internet of Things (IoT) projects related to fleet monitoring, GPS tracking, device management, and smart systems.
+
+## Project Areas
 
 - GPS Tracking
 - Fleet Monitoring
-- Device Management
-- Sensor Monitoring
+- Device Maintenance
 - IoT Troubleshooting
+- Sensor Monitoring
 
 ## Technologies
 
-- IoT
 - Python
+- IoT
 - GPS Systems
-- Fleet Tracking
 - Networking
+- Data Analysis
 
 ## Author
 
 Abdullahi Umar Ismail
 
-IoT Engineer
+IoT Engineer | Fleet Monitoring Specialist
