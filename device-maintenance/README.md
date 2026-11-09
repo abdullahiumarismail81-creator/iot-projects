@@ -1,3 +1,10 @@
 # Device Maintenance
 
-Projects related to IoT troubleshooting, maintenance and support.
+Projects related to maintaining and troubleshooting IoT devices.
+
+Topics:
+
+- Device Installation
+- Device Troubleshooting
+- Preventive Maintenance
+- Technical Support
